@@ -10,9 +10,12 @@
 * AdaBoost Classifier ----- 83.60 
 * MultilLayer Perceptron Classifier ----- 83.40
 
+*Note*: Check out our project report to find out why we used these algorithms.
+
 ## Technologies:
 * Programming Language: Python
 * Libraries: Pandas, Scikit-learn, Matplotlib, Seaborn
+* Visualization: plotly
 
 ## Data Source:
 https://www.lendingclub.com/info/download-data.action
